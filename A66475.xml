@@ -1,0 +1,579 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A sermon preached before his Grace the King's commissioner, and the three estates of Parliament: June the 15th. 1690. By David Williamson, Minister of the Gospel at Edinburgh</title>
+            <author>Williamson, David, d. 1706.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1690</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 77 KB of XML-encoded text transcribed from 11 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A66475</idno>
+            <idno type="STC">Wing W2796</idno>
+            <idno type="STC">ESTC R219573</idno>
+            <idno type="EEBO-CITATION">99831034</idno>
+            <idno type="PROQUEST">99831034</idno>
+            <idno type="VID">35496</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A66475)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 35496)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2086:25)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A sermon preached before his Grace the King's commissioner, and the three estates of Parliament: June the 15th. 1690. By David Williamson, Minister of the Gospel at Edinburgh</title>
+                  <author>Williamson, David, d. 1706.</author>
+               </titleStmt>
+               <editionStmt>
+                  <edition>The second impression corrected and amended.</edition>
+               </editionStmt>
+               <extent>20 p.   </extent>
+               <publicationStmt>
+                  <publisher>re-printed by the heirs of Andrew Anderson, printer to the King and Queens most excellent Majesties,</publisher>
+                  <pubPlace>Edinburgh :</pubPlace>
+                  <date>anno Dom. 1690.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title on p. 3 reads: A sermon on 2 Psalm, verse 10. Be wise therefore, O ye King: be instructed, ye judges of the earth.</note>
+                  <note>Imperfect: cropped at head affecting paging; title page stained affecting imprint.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Bible. --  O.T. --  Psalms, II, 10 --  Sermons --  Early works to 1800.</term>
+               <term>Sermons, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-08</date>
+            <label>Jayanthi Reddy</label>Sampled and proofread</change>
+         <change>
+            <date>2012-08</date>
+            <label>Jayanthi Reddy</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:35496:1" rendition="simple:additions"/>
+            <p>A SERMON Preached before His GRACE the <hi>King's Commiſſioner,</hi> And the Three ESTATES PARLIAMENT: <hi>June</hi> the 15th. 1690.</p>
+            <p>On <hi>Pſal.</hi> 2.10. <hi>Be Wiſe now Therefore, O ye Kings: be Inſtructed, ye Judges of the Earth.</hi>
+            </p>
+            <p>By <hi>David Williamſon,</hi> Miniſter of the Goſpel at <hi>Edinburgh,</hi>
+            </p>
+            <p>The Second Impreſſion Corrected and Amended.</p>
+            <p>
+               <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>D<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>NB<g ref="char:V">Ʋ</g>RGH, Re-printed by the <gap reason="illegible" resp="#UOM" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> 
+               <hi>Andrew Anderſon,</hi> Printer to the King and Que<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap> 
+               <gap reason="illegible" resp="#UOM" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>lent Majeſties, <hi>Anno Dom.</hi> 1690.</p>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb facs="tcp:35496:2" rendition="simple:additions"/>
+            <pb n="3" facs="tcp:35496:2" rendition="simple:additions"/>
+            <head>A SERMON ON <hi>PSALM</hi> 2. Verſe 10.</head>
+            <epigraph>
+               <q>Be wiſe now therefore, O ye Kings: be Inſtructed, ye Judges of the Earth.</q>
+            </epigraph>
+            <p>THESE things are clear. 1. That <hi>David</hi> was Pen-man of this <hi>Pſalm, Acts</hi> 4.24, 25. verſes. 2ly. That this Pſalm relates to the Stability of <hi>Davids</hi> Kingdom, I make no Queſtion: But it's moſt clear, that it mainly concerns, the Stability of Chriſt's Kingdom; for many things in this <hi>Pſalm</hi> cannot be applyed to <hi>David.</hi> 3ly. It's clear, this Text has a Connexion, with the pre<g ref="char:EOLhyphen"/>ceeding, and ſubſequent Words. Take this Paraphraſe on the <hi>Pſalm</hi> to make it out.</p>
+            <p>That the Oppoſers of Chriſt who Rebel againſt him, but ſhew their Teeth and La<g ref="char:EOLhyphen"/>bour in vain: For the Lord will ſettle Chriſt's Kingdom in the viſible Church, Nill they, will they; and mock his Enemies, and vex them till he ruine them, for the Sta<g ref="char:EOLhyphen"/>bility of Chriſt's Kingdom is decreed in the Covenant of Redemption, and here it is revealed; Chriſt ſhall have a full Victory, and daſh them by his Rod, who will not be inſtructed by his Word: And therefore it's incumbent to all, eſpecially to Magi<g ref="char:EOLhyphen"/>ſtrats; to learn their Leſſon and be wiſe in time, to Adore, Embrace, ſubject them<g ref="char:EOLhyphen"/>ſelves, and do homage to Chriſt, leaſt if they kindle his Anger by provocation, they be conſumed in the Flame of his wrath.</p>
+            <p>This Text contains an Exhortation, wherein we have; 1. The Perſons exhorted, Kings, and Judges. 2. What they are exhorted to; to take Inſtruction, that they may be wiſe. 3. The Connexion, therefore be wiſe. 4. The ſeaſonableneſs of it, now therefore, if ever, leaſt it be too late afterwards; when there is no place for Re<g ref="char:EOLhyphen"/>pentance.</p>
+            <p>I offer ſome Queſtions, 1. What is that to be wiſe, be Inſtructed? <hi>Anſw.</hi> It is, take your leſſon from the Word, where true Wiſdom is to be found, and Repent: <hi>For he that hates Inſtruction, is Brutiſh.</hi> Prov. 12.1. <hi>And a Fool who rues it out of time, when his Fleſh and Bones are Conſumed, by ſevere Correction.</hi> Prov. 5.11, 12. <hi>And a Man is out of his Wits, till he repent;</hi> For it's ſaid of the repenting <hi>Prodigal.</hi> Luke. 15.17. <hi>When he came to himſelf, he was not at himſelf before.</hi> He that is in a courſe of Sin in Scripture, is called a Fool and Mad; the Drunkard, Unclean, Oppreſſor, and Perſe<g ref="char:EOLhyphen"/>cuter: <hi>Paul</hi> ſayes of himſelf, he was <hi>exceedingly mad againſt the Church.</hi> Acts 26.11.</p>
+            <p>
+               <hi>Queſt.</hi> 2. What Wiſdom is that which they ſhould ſtudie? <hi>Anſw.</hi> There is a three<g ref="char:EOLhyphen"/>fold Wiſdom, 1. There is wordly Policy, that makes a Man his own <hi>Burrio.</hi> 2. There is Moral Prudence, that <gap reason="illegible" resp="#UOM" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>an to ſerve his Generation. 3. There is Chriſtian Wiſdom, that makes a Man wiſe for Heaven.</p>
+            <p>For the firſt, worldly Policy 1. The ends of it are, the luſt of the Fleſh, the luſt of
+<pb n="4" facs="tcp:35496:3"/>the Eyes, and the pride of Life. 2. The means for attaining theſe ends are correſpon<g ref="char:EOLhyphen"/>dent: Namely, Self love, Diſtruſt or ſuſpicion, Diſparagement or Detraction, Com<g ref="char:EOLhyphen"/>plyance or Neutrality, Reſervedneſs or Cloſſneſs, Surprizal, or Advantage, Irreligi<g ref="char:EOLhyphen"/>gion or Atheiſme. 3. The Miſcarriages in the uſe of theſe Means, are 1 From the ſhort<g ref="char:EOLhyphen"/>neſs and inconſiſtencie, of Mans both Life &amp; Temper, for bringing any great Deſign about. 2. The Emergency of indiſcernable Accidents, that will be ſure to Interpoſe. 3. The Miſcarriage of Inſtruments that muſt be employed. 4. The competition of Adverſe Partie<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> that will be ſure to binder what they may. This is not the Wiſdom meant in the Text, it being Earthly, Senſual, Deviliſh, and from below. <hi>James</hi> 3.15. It is but Craft, and ſuch plat a S<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>are for themſelves. 1 Cor. 3.19. <hi>He takes the wiſe in then own <gap reason="illegible" resp="#PDCC" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>:</hi>
+            </p>
+            <p n="2">2. For Moral Prudence, 1. the ends of it; are, Peace, Safety, Contentment and Uſe<g ref="char:EOLhyphen"/>fulneſs, 2. The means attaining their ends are four. 1. Moderation in our Affections, Opinions, Diſcourſes, and Expenſes. 2. Recognition in <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Cuſtoms, Reports, Reſolutions, and Undertakings. 3. Intogrity in our Dealings, Words, Profeſſions, and Endeavours, 3. Improvement of our inclinations, Abilities, intereſts and injuries. 3. Miſtakes of the world about it, are, Difficulty, Stupidity, Severity and Singularity. This Moral Providence is included in the Text.</p>
+            <p n="3">3. Chriſtian wiſdom, the Ends of it are, 1. Reconciliation with God. VVe are to Notice theſe things about it. 1. The means of it, The Covenant of Grace. 2. The Parties to be reconciled to, an offended God, eſpecially in his Juſtice and Holi<g ref="char:EOLhyphen"/>neſs, and offending Man, in whoſe offence there is a condemning Guilt, and commanding, Power. 3. The Remedy is Chriſt's Death; the price and the Power of it. 4. The Condition applying, is the Grace of Faith. 5. The Grant or Tenor, in which this Covenant runs, God our God, and we his people.</p>
+            <p>The ſecond end of this Chriſtian Wiſdom, is Communion with God; the means of it, the New Birth; whereof God is the Author, the inſtrument is the word, the ſear and ſubject of it, Man, eſperially his will: The manner Spiritual, who attain this Wiſdom have advantages in croſſes, Co<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſt<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>cts, Deſertions and Death. This is the Wiſdom that is mainly meaned in the Text. <hi>Q.</hi> 3. Who are under Rood by Kings and Judges? <hi>Anſ.</hi> Maniſtrats, Supreme and Subordinat, both theſe are joyned in the Old Teſtament here. and in the promiſe, <hi>Iſa<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ah</hi> 32.1. <hi>Behold, a King ſhall reign in righteouſneſs, and princes ſhal rule in judgement.</hi> And in the New Teſtament, in <hi>Peter's</hi> exhortation to ſubjection, <hi>to the King as Supreme, or unto Governours as ſent by him.</hi> And in <hi>Paul's</hi> exhortation to prayer, for <hi>Kings, and all that are in Authority. 1 Pet.</hi> 2.13, 14. 1 <hi>Tim.</hi> 2.2, Whey are theſe joyned? To ſhew that Magiſtrats muſt not deſire to be ſolitary and independent: It would be a burden too heavy, even for <hi>Moſes</hi> alone, to rule a Nation or a great City; wo to him that is alone, and bath none to counſel him: <hi>In the multitude of counſellors there is ſafety, Prov.</hi> 11.14. There is a Common-wealth in beſt caſe, when it hath a good King, and adjoyned to him, as Eyes, Ears, and Hands to aſſiſt in Juſtice, good Miniſters of State, and Under-Rulers: And a good wiſe King will chooſe ſuch; now both ſupreme and ſubordinate Magiſtrats have need of Wiſdom; For, if a King be a fool, although his Courtiers, and ſubordinate Officers were never ſo wiſe, they will not manage him; he will be a willful fool, and ruine himſelf who will, who, will not: And if a King were never ſo wiſe, if his Counſellours be Fooliſh, Selfiſh, K<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>viſh, they will make his Throne totter, and hazard the falling of the Crown off his
+<pb n="5" facs="tcp:35496:3"/>head, and make the Common-wealth ſmart. Many obſerve, under <hi>Nerva</hi> a good Emperor, by reaſon of wicked Under-Rulers, the Roman Common-wealth was in worſe caſe than under <hi>Nero.</hi>
+            </p>
+            <p>
+               <hi>Q.</hi> 4. Why is this Exhortation to Kings and Judges? Have not others need of Wiſdom as well as they? <hi>Anſw.</hi> Others are not excluded, but theſe are mainly exhort<g ref="char:EOLhyphen"/>ed, for ſix Reaſons; 1. Becauſe they are under preateſt Obligations to God. 2. They are lyable to the greateſt Temptations. 3. They are in hazard of the greateſt Snares. 4. Becauſe their Authority and Example, good or bad, has a great weight and influ<g ref="char:EOLhyphen"/>ence; if they be ſound and wiſe, they may do much ſervice to God, and as much diſ<g ref="char:EOLhyphen"/>ſervice, if not ſo, 5. Becauſe they need moſt Wiſdom, and oſt conceit it, yet great. Men are not alwayes wiſe, <hi>Job</hi> 32.9. 6. Becauſe Chriſt has but few Friends and Followers in that Categorie of Men; 1 <hi>Cor.</hi> 1.76. <hi>Not many Noble,</hi> &amp;c. They pre<g ref="char:EOLhyphen"/>ſume upon their own power and greatneſs, and think <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> below them to ſubmit to him; and they are in hazard to misken themſelver, and their Maker alſo. <hi>Exod.</hi> 5.2. <hi>Pha<g ref="char:EOLhyphen"/>raoh</hi> ſaid, <hi>Who is the Lord that <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hould obey him?</hi> But he that would not know God, by <hi>Moſes</hi> inſtruction, was made to know him by his own, and his great Hoſts De<g ref="char:EOLhyphen"/>ſtruction.</p>
+            <p>
+               <hi>Q.</hi> 5. What ſort of Magiſtrats are there to be found? <hi>Anſw.</hi> Some diſtinguiſh them in reſpect of theſe ſeven; 1, In reſpect Jurisdiction, ſome are Superiour, who have none above them but God, as Emperor, King, Dictator, Senate; or inſerious, who are appointed by the Superiour, as are all inferiour Governours and Officers 2. In reſpect of Religion, ſome are Believers, as <hi>Joſhua;</hi> ſome <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>fidels, and ſo are either ſuch as perſecute Religion, as <hi>Herod</hi> and <hi>Julian:</hi> or tollerate it, as a <hi>Trajan,</hi> 3. In re<g ref="char:EOLhyphen"/>ſpect of Ob<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ects, ſo ne are <hi>Togati,</hi> Gown-men and Governours; <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>one are <hi>A<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>ati,</hi> Sword<g ref="char:EOLhyphen"/>men, Martial Men. 4. In reſpect of buſineſs, ſome Councillours, ſome Senators, ſome Judges. 5. In reſpect of Office, ſome are Law givers, ſome are Law keepets, as Juſtices, and the like. 6. In reſpect of Diunity, ſome have Dignity and not Autho<g ref="char:EOLhyphen"/>rity, as ſuch who enjoy the title of Dukes, Earl, Lords, Knights, or Gentlemen; ſome have Dignity and Authority alſo, as ſuch of any of the former kind, or the like; as are likewiſe called to any Office of Rule and Government. 7 They may be well diſtin<g ref="char:EOLhyphen"/>guiſhed in reſpect of Adj<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>cts ſome are by God's permiſſion, unlawful or bad Magiſtrats, as having (in repect of the manner) attained their places by unlawful means, or do ex<g ref="char:EOLhyphen"/>exerciſe their Authority with Cruelty or Partiality: ſuch an one was <hi>Saul,</hi> &amp; theſe are a peoples Judgement: ſome are by God's Approbation, Lawful Juſt, and good Magi<g ref="char:EOLhyphen"/>ſtrates, who come by their power by lawful Election, or ſucceſſion and do exerciſe it well; ſuch an one was <hi>David,</hi> theſe are a Peoples Mercy: God ſhafted by <hi>Saul</hi>'s curſed Race, and chooſed the ſou of <hi>Jeſse</hi> who made no grea<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſhew, but a Man full of Spirit, and a Manly Excellent Spirit; and to the boot, a <hi>Man according to Gods own heart;</hi> 1 <hi>Sam</hi> 13.14. And we judge we have a King comes as near this Mark, as any King of <hi>Scots</hi> we read of ſince ever there was one.</p>
+            <p>Moreover, we read of three ſores of Kings, firſt <hi>Machiavels King,</hi> who may be cal<g ref="char:EOLhyphen"/>led a Tyrant. 2ly. The <hi>Papes</hi> King, who may be called a Slave. 2ly, God's King who only deſerves the Name. Firſt for <hi>Mac<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>vel</hi> his King take theſe Five. He duects him not to care how he come to a Kingdom, ſo he may have it; By mu<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>h or Falſh<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>od, Right or Wrong, Craſt or Cruelty: miske<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ning God and Providence, he looks only
+<pb n="6" facs="tcp:35496:4"/>to Fortune and fleſhly Wiſdom, and commends to him the cruelty of the Lyon, and cra<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t of the Fox. 2ly. For his diſpoſition, he forbids him to be Religious indeed, but to ſeem ſo, the ſhew of it is enough to do his Turn with Man, whom he alone reſpects, and that only to deceive him: And although they who are near him, know his Piety to be Feigned, yet dare not re<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ſt the common Opinion of People, who count him Religious indeed: He reckons Conſcience and the fear of God, care to pleaſe him and be approven of him as Cut throats of politick Deſigns, and that which makes Effeminate and breaks Courage; becauſe it teaches Men to ſeek Heaven, and contemn the Glory of the World, he Leaves Religion to ſuch as he counts baſe Spirits, and Sets up <hi>Atheiſm</hi> and deep <hi>Hypo<g ref="char:EOLhyphen"/>criſie</hi> in its place. 3ly. For Government, he adviſes his Prince to have ſufficient Witt of himſelf, at leaſt to think, that he hath it; To be jealous of all, and keep cloſe his Inten<g ref="char:EOLhyphen"/>tions from the beſt, leaſt his purpoſes be fruſtrat. 4ly. He directs them not to count his subjects Gods People, but his own, and that not as free Men, but as Slaves. 5ly. For his end, he adviſes him to keep his People in continual diſcord, to expone their Concord a Conſpiracy; There is nothing ſo terrible to him as good correſpondence, in the mutual intelligence of their Affairs. <hi>Like</hi> Nero, <hi>he cares not they hate him. ſo they fear him.</hi> This is <hi>Machiavel</hi>'s godleſs policy which he ſaw acted at the Court of <hi>Rome,</hi> under Pope <hi>Alex<g ref="char:EOLhyphen"/>ander the ſixth.</hi> And thus directed <hi>Borgea</hi> his ſon; this is called wiſdom in the World, but it is extreme madneſs; for beſide the ſin, which they regard not, they procure their own ruine by ſuch means as they choſe for eſtabliſhment.</p>
+            <p>Secondly, For the Popes King or Slave, he ſets up and caſts him down at pleaſure, he injoyns him to ſerve him abſolutely in a blind Obedience; and to maintain Idolatry, and perſecure the Truth, who are moſt in theſe are his Greateſt Darlings; He keeps his Kings under Tutorie, and ſuffers them not to Rule by Gods Word, and the wholeſome Laws of their Kingdoms, but Thruſts on them his <hi>Breives,</hi> and Commands by his <hi>Legats.</hi>
+            </p>
+            <p n="3">3ly, For Gods King. He comes to the Throne in Gods Mercy, both to himſelf and the People, he is Religious in his Diſpoſition, acknowledges his advancement to be of God, forgets not he is Gods Subject; In Government, learns Wiſdom from other Mens folly, and Labours to do Gods Work, by Gods Wiſdom, making his Commands the Men of his Counſel; He counts his People, not Slaves, but free Men, even Gods people Who has firſt Right to them; that his Power over them is not Abſolute, but Delegate; for which he muſt be countable to God; by all means ſeeks their wealth and peace, craves their Hearts more than their Goods, and reckons their Love his beſt guard under God.</p>
+            <p>The point of Doctrine I would inſiſt on, is this, <hi>That it is the Intereſt of Magiſtrats, Su<g ref="char:EOLhyphen"/>preme and Subordinate, to learn to be wiſe;</hi> And it anſwers the Scope of theſe Words, they ſhould ſo endeavour wiſely to Manage their eminent truſt, as they may be moſt Subſervi<g ref="char:EOLhyphen"/>ent to the Advancement of the Kingdom of <hi>Chriſt,</hi> and be approven of him. I ſhal ob<g ref="char:EOLhyphen"/>ſerve this order, firſt whence muſt they Learn this wiſdom? 2ly. Wherein ſtands this wiſdom Magiſtrats ſhould Learn? 3ly. Why ought they to be thus wiſe? 4ly. Some application of all.</p>
+            <p>Firſt, Magiſtrats muſt Learn Wiſdom from the Word of God, <hi>Deut:</hi> 17.18, 19. It's enjoyned to a king, when <hi>he ſiteth on the <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rone of his Kingdom, that he ſhall write a copy of this Law in a book out of that which is before the Pr<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>eſts, the Levites; And it ſhall be with him, and he ſhall read there in all the days of his life, that he may learn to fear the Lord his God,
+<pb n="7" facs="tcp:35496:4"/>to keep all the words of this Law, and theſe ſtatutes to do them: That his heart be not liſted up above his brethren, and that he turn not aſide from the commandment, to the right hand nor to the left <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> To the end that <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e may prolong his days in his kingdom, he and his children in the midſt of Iſrael.</hi> It's injoyned <hi>Jeſhuah</hi> a Governour, <hi>Jeſhuah.</hi> 1. 7, 8. <hi>Only be thou ſtrong and very <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>urogro<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>s, that thou mayest obſerve to do, according to all the law which</hi> Moſes <hi>my ſervant command<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d thee. Turn not from it, to the right hand, or to the leſt, that thou mayeſt proſper whi<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>er ſoever thou goeſt. This book of the law ſhall not depart out of thy mouth, but tho<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> ſhalt meditat there<g ref="char:EOLhyphen"/>in day and night, that thou mayeſt obſerve to do according to all that is written therein; for thin thou ſhalt make thy way proſperous &amp; then thou ſhalt have good ſucceſs.</hi> This word is able to make the Man of God, Magiſtrat or Miniſter, wiſe to Salvation, perfect, and throughly fur<g ref="char:EOLhyphen"/>niſhed for every good work, 2 <hi>Tim.</hi> 3.15, 17. By this word, <hi>P<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>vid</hi> 
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>av<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>g it ever with him, was made <hi>wiſer than his enemies, bad more underſtanding than the detients, and his Teachers, Pſalm</hi> 119.98, 90, 100. Alas! There are but too ſew among our great Once, that have acquaintance with the VVord, that may be applyed to many, <hi>Jer.</hi> 3.99. <hi>They have rejected the word of the Lord, and what wiſdom is there in them!</hi>
+            </p>
+            <p>
+               <hi>Queſt.</hi> VVherein ſtands this VViſdom, Magiſtrats ſhould Studie? <hi>Anſw. Solomen</hi> ſays, <hi>Prov.</hi> 4.7. VViſdom is the principal thing, therefore with all thy getting get under<g ref="char:EOLhyphen"/>ſtanding. It is ſuppoſed, <hi>Job.</hi> 38.2. <hi>Some darken Counſel by Words without Knowledge<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi> True VViſdom ſtands not in VVords: I conſeſs good Diction and Expreſſion, accep<g ref="char:EOLhyphen"/>table VVords with Eloquence are not Deſpicable Giſts; But the main pitch, Beauty and VVorth of VViſdom conſift in Action, <hi>Joh.</hi> 13.17. Chriſt ſays, <hi>If you know theſe things, hap<g ref="char:EOLhyphen"/>py are ye, if ye do them;</hi> Pſalm. 111.10. <hi>Good underſtanding have all they that keep his Com<g ref="char:EOLhyphen"/>m<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ndments,</hi> James 3.13. <hi>Who is a wiſe Man, and endued with knowledge among you? Let him ſhew out of a good Converſation his Works with meekneſs of Wiſdom:</hi> All would he called Wiſe, and the moſt part pretend to it, even a Fool thinks himſelf wiſer than ſeven Men that can render a reaſon, <hi>Prov.</hi> 26.16. But would Men be what they affect to be reputed, truly wiſe; then muſt they Study prudent Meekneſs, in Co<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>verſation; and Pro<g ref="char:EOLhyphen"/>nour Knowledge with Practice. <hi>Prov.</hi> 8.12. <hi>I Wiſdom dwell with Pruaence.</hi> Deut. 3.6. <hi>Keap theſe Statutes, for this is your Wiſdom:</hi> There be ſour ſorts of Perſons ſcored by here. 1. The Worldly wiſe, who are cunning to effectuate their Carnal purpoſes, 3. Such as content themſelves with Humane Knowledge, and can Reaſon in Natural Things; but know not God, nor themſelves, ſuch do but go Wiſely to Hell. <hi>Sapientes ſapienter deſcen<g ref="char:EOLhyphen"/>dunt in Infernum, Hieron.</hi> 3. Such as hunt after Notions and Sublime Speculations, knowing only that they may know. 4. Such as are ſinſully Crafty to deviſe wickedneſs. 1 <hi>Cor.</hi> 14.20. Be not Children in Underſtanding, but in Mali<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e be ye Children: happy Souls who never enters into ſins ſecrets.</p>
+            <p>Honourable Worthies, in Charity I judge, I need not offer Inſtruction to many for Information; yet there may be ſome, what ever ſmack they have of Homane Policy, would be no worſe to learn more Morality, and the Elements of Divine Wiſdom, and ſure all needs upſtirring to more Practiſe.</p>
+            <p>Now I will tell you wherein the Wiſdom of Magiſtrats ſtands not, and then wherein it doth ſtand. 1. It ſtands no<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> in unſeaſonable, undue contending; <hi>
+                  <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ieing and deve<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ing one another, leaſt ye he conſumed one of another; Gal.</hi> 5.15. <hi>The beginning of ſtriſe is like the opening of the waters to overflow. Prov.</hi> 17.14. I confeſs there is a lawful contending, not only for Truth, and the Faith of the Goſpel, <hi>Jud.</hi> 3. <hi>Phil.</hi> 1.27. but even for inferiour
+<pb n="8" facs="tcp:35496:5"/>things, <hi>Joh.</hi> 31.13, 14, 15, 23. he admits his hyrlings to plead their Right, and offer their Grievances. <hi>If I did deſpiſe the cauſe of my man ſervant, or of my maid. ſervant, when they contended with me; what then ſhall I do, when God riſeth up? And when he viſi<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>eth, what ſhall</hi> I <hi>anſwer him? Did not he that made me in the womb, make him? and did not one faſhion us both in the womb? For deſtruction from God was a terrour to me, and by reaſon of his highneſs I could not endure.</hi> As if he had ſaid, if I had uſed my power to overthrow his juſt right, I heard them patiently and indifferently, and did them right even againſt my ſelf, if by any miſinformation or paſſion, I had done them Injury: What Apology ſhall I make when I am call'd before God's Tribunal? Who will examine all my Actions, and particular<g ref="char:EOLhyphen"/>ly what is betwixt me and my Servant; altho he was my Servant, yet my fellow Crea<g ref="char:EOLhyphen"/>ture, made by the ſame God, after God's Image as I am, and therefore one of God's Sub<g ref="char:EOLhyphen"/>jects, whom I could not abuſe without the Injury of his Supreme Lord: altho by Power and Intereſt, I had little reaſon to fear Man, I ſtood in a we of God, and of his Judge<g ref="char:EOLhyphen"/>ment, and made it my Buſineſs to pleaſe him; ſo he admitted their Debate.</p>
+            <p>I confeſs there would be examination of the principal and riſe of Debates, if from pride and envy, then confuſion and every evil work may be the conſequent, <hi>James</hi> 3.16. there is due ſeaſon and right methods and meaſures that would he followed, the miſs and miſtake in theſe, may marr a very cleanly Deſign, and Eſſays for Peace ill managed; in ſtead of being water to quench the fire, may prove oyl to increaſe the flame: It is obſer<g ref="char:EOLhyphen"/>vable and commendable, although <hi>Abraham</hi> ſuperior and elder than <hi>Lot,</hi> avoided unſea<g ref="char:EOLhyphen"/>ſonable contendings, when the <hi>Canaanites</hi> were in the Land, <hi>Gen.</hi> 13. and yielded to <hi>Lot,</hi> whoſe choiſe proved his puniſhment: It is no diſparagement to the higheſt, to Princes Clemency and Condeſcendency to theſe below them, even ſuppoſing ſome Tranſgreſſion, <hi>Prov.</hi> 19.11. <hi>It is the glory of a man to paſs over a tranſgreſſion and his diſcretion to defer anger:</hi> and far more is it the bound duty of inferiours to yield, and not unnianntely to prig with theſe above them, where yielding may be without manifeſt prejudice to Truth and Peace.</p>
+            <p>Secondly, it is not wiſdom in <hi>Kings</hi> and Magiſtrate to exerce a deſpotick and Arbitra<g ref="char:EOLhyphen"/>ry power, to Rule with Tyranny and Opp<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ſtion, what is ſpoken of Natural Parents, <hi>Epheſ.</hi> 6.49. is applicable to the Fathers of the Republick; they would not <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rovoke to wrath, but avoid inhumanity in their dealings, Relax and Moderate their Menacings, and Boaſts, leaſt they imbitter their Spirits, and extinguiſh or weaken their Affections, and become guilty of theſe ſins, which they being provoked, commit; by having that, which is due denyed, or things unjuſt in themſelves, Commanded, or rigorous. Commands of things in their own Nature indifferent, joyned; Or <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ave ighing with bitterneſs a<g ref="char:EOLhyphen"/>gainſt them, when there is no cauſe, by inflicting puniſhment, either unjuſtly, where there is no fault, or immoderatly, unſeaſonably, or baſely, where there is a Fault.</p>
+            <p>As Inferiours have their bounds, which they may not paſs, but move in the Sphere of their Duty to Superiours; ſo Superiours would mind that there is to Power on Earth, ſo ablolute, no not of Kings and Supreme Rulers, but implyes, Obligation through Vertue of Gods Ordinance, <hi>Rom</hi> 13. on theſe inveſted with it, to make Conſcience of ſeveral Duties, to Inferiours and Subjects, and they are bound to advert not only; to the Matter, but to the manner of Performance, that all Rigour and Oppreſſion be avoi<g ref="char:EOLhyphen"/>ded: He Rules with moſt Comfort and Confidence, who keeps moſt room in the Affecti<g ref="char:EOLhyphen"/>ons: and they are likelieſt to be the Men of the Promiſe, to build the Old waſte Places, to raiſe up the Foundations of many Generations, to be called the Repairers of the Breaches,
+<pb n="9" facs="tcp:35496:5"/>the Reſtorers of Paths to dwell in, who looſe the bands of Wickedneſs, and un do the heavy burdens, and let the Oppreſſed go free, and breake every Yoke, who eaſe people of <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>uſt Grievances; and Impoſe not, nor Continue what is forbidden and Condemned; <hi>Iſaiah</hi> 58.6, 11.</p>
+            <p>Thirdly, it is not VViſdom for Magiſtrats, to be too credulous, but to try ere they Truſt, that they be not Influenced, &amp; Impoſed upon, &amp; bad Impreſſions made; <hi>Satan</hi> may borrow <hi>Peters</hi> Tongue to give bad Advice to his Maſter <hi>Matth.</hi> 16.22. A near Relation may whiſ<g ref="char:EOLhyphen"/>per what is dangerous, and prove a ſnare. 2 <hi>Chron.</hi> 22.3. <hi>Ahaziah</hi> his mother counſel<g ref="char:EOLhyphen"/>led him to do wickedly. <hi>Saul</hi> hearkned to falſe deceitful Slandering <hi>Dorg. Pſal.</hi> 52. a great Perſecutor of <hi>David,</hi> who had done great ſervices to <hi>Saul</hi> and taken great Ven<g ref="char:EOLhyphen"/>tures for him. Kings would beware of all, of ſuch Complection who may involve them in Guilt and Danger, and all Courtiers and Favourits of Princes, would beware of any Tincture of ſuch a Diſpoſition; Magiſtrats of all Degrees has need of two ears to hear both Parties, and of diſcreet Ears to try the Truth of what is Related, and the Deſign of the Relator. <hi>Job,</hi> 12.11. As the Mouth taſtes Meat, ſo the Ear tryes words. None ſhould except againſt this warning, for the beſt of Men may be warned againſt the worſt of Sins. <hi>Luke</hi> 21.34. Chriſt warned his Diſciples againſt theſe Sins, that none could have jealouſ<g ref="char:EOLhyphen"/>ed their Diſpoſition towards Gluttony, and Drunkenneſs; they appeared to ly far from the Temptation to theſe: Yet all Men are Men, and having Corruption are not without the reach of Temptation, the beſt of Men, and beſt of Kings have made ſlips, <hi>Noah, Lot, David. What I ſay to one,</hi> (ſays Chriſt) <hi>I ſay to all, watch; Mark.</hi> 13. <hi>cloſe.</hi>
+            </p>
+            <p n="4">4. It is not the wiſdom of great Men to ſeek themſelves, or great things for themſelves, this is reproved in <hi>Baruch. Jer.</hi> 45. and an old Complaint of the Apoſtle, which may be renevved. <hi>Phil.</hi> 2.21. All ſeek their own things, and not the things of Jeſus Chriſt. it's a Mark of Diſhonour, and a Brand of infamy in any, eſpecially in great Men, to be Self-ſeekers, who live wholly to themſelves, like the Grave wherein all that is gotten is buried, and kept cloſs, and nothing brought forth to publick Benefit, on the Tombs of theſe it may be written; ſuch a man ſought himſelf when he lived, and loſed himſelf when he died; Self ſeeking diſpirits a Man, and makes him cold and cowardly in God's Cauſe. This Self is the carnal corrupt part called Fleſh, that ſways the whole Man. Chriſt and this Self are contrary; you cannot ſerve theſe two Maſters; this Self will make ſinners ſay, concerning the Word of Life: <hi>The word that's ſpoken to us in the Name of the Lord, we will not do it, but what proceeds out of our own Mouth.</hi> Jer. 44.16, 17. And concerning Chriſt, <hi>we will not have this Man to Reign over us,</hi> Luke 19.14. For the Lord's ſake, ſhake off its Government, reſiſt its Reaſonings, diſobey its Com<g ref="char:EOLhyphen"/>mands, refuſe to follow its inclinations or to ſatisfie its L<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſtings. 5. It's not a Magi<g ref="char:EOLhyphen"/>ſtrates Wiſdom to prefer ſecular Affairs to the Lords, they were reproved. <hi>Haggai.</hi> 1. Who dvvelt in Ceiled Houſes, when the Lords Houſe lay waſte: This is <hi>Machiavelians</hi> Wiſdom, to ſimulate and make all Intereſts of Religion ſubſervient to Secular and Civil Concerns; this is the principle of that damned <hi>Antichriſtian</hi> Hierarchie: This Wiſ<g ref="char:EOLhyphen"/>dom is but Craft, however it be plaſtered over; <hi>Jeroboam</hi> who withdrew the people from the eſtabliſhed worſhip of God pretended their <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>aſe, and not only Tollerate, but Eſtabliſhed another way of Worſhip, for which cauſe the Lord draws a black line on his fore-head, oft ſtigmatizing him thus; <hi>Jeroboam the ſon of Nebat who made Iſrael to ſin,</hi> 2 <hi>Kings</hi> 10.31. &amp;c.</p>
+            <p n="6">6. A Magiſtrates wiſdom ſtands not in pride and upliftedneſs of Spirit; proud <hi>Pharaoh</hi> ſaid <hi>who is the Lord? Exod.</hi> 4.2. But the Lord laid his pride as he did <hi>Haman's, Eſther</hi> 7.
+<pb n="10" facs="tcp:35496:6"/>The king of <hi>Aſſyrias, Iſaiah</hi> 10. <hi>Nebuchadneezar's, Dan.</hi> 4. True wiſdom humbleth and advanceth to Honour, <hi>Prov.</hi> 15.33. <hi>Before honour is bumility;</hi> It's the ready way to honour both from God and Man to be humble, and gains love and reſpect from both, whereas pride procures hatred and contempt, 1 <hi>Cor.</hi> 3.18. <hi>If any man among you ſeem to be wiſe in this World, let him become a fool, that he may be wiſe:</hi> If any man would be wiſe to God, wiſe to eternal Life and Salvation, let him be content to be accounted a fool by the men of the world; The proud man and the fool gets one name; 1 <hi>Tim.</hi> 6.4. The original Word ſignifies ſmoak, importing, that the proud man has a tumour, and is puft up with ill and noiſome Air.</p>
+            <p n="7">7. It is not the wiſdom of Magiſtrats to overlook dangerous perſons by a cruel indul<g ref="char:EOLhyphen"/>gence; one <hi>Achan</hi> ſpared may endanger the whole Camp of <hi>Iſrael;</hi> Traitours to Kirk and State would be duely noticed: I am not for Rigours, Severity, and Blood, and would be far from ſaying, what a Preacher in the <hi>South</hi> of <hi>Scotland</hi> ſaid, within theſe twelveyears, preach<g ref="char:EOLhyphen"/>ing before the Juſticiary Court, of ſome that he called <hi>Phanaticks,</hi> He deſired the Lords to <hi>dye their ſcarlet robes in theſe Mens ſcarlet blood;</hi> At which they themſelves bluſh'd. This I had from Perſons of Credit, Ear-witneſſes, ſome whereof are yet alive. But ſure Perſons of a Dangerous Complexion to undermine the State, would be incapacitate and put out of reach to hazard the Common-wealth. If he were a Church-man; an <hi>Abiathar,</hi> he might be ſent to <hi>Anathoth.</hi>
+            </p>
+            <p>
+               <hi>Q.</hi> But wherein ſtands the wiſdom of Princes and Magiſtrats? <hi>Anſ.</hi> 1. In having a good foreſight, and not to be ſtiff head-ſtrong and willful in what may endanger (<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>f not well adviſed) As <hi>David</hi> in an humour would not be put off to number the peo<g ref="char:EOLhyphen"/>ple, 2 <hi>Sam.</hi> 14. Notwithſtanding <hi>Joab</hi> told him, it might provoke God, and pro<g ref="char:EOLhyphen"/>duce ſad effects, for 70 thouſand died for it: Princes in their reſolutions and purpoſes, would have a reſerve to change meaſures on ſecond thoughts, eſpecially in what con<g ref="char:EOLhyphen"/>cerns ſecular Affairs; ſo did <hi>David</hi> when provoked by an unmannerly Cloun; 1 <hi>Sam.</hi> 25, But for things directly tending to God's Glory, conſtancie is a commendation: <hi>David</hi> never changed his purpoſe of building the houſe of God, and paying his Vows, <hi>Pſal.</hi> 66 14, 15. <hi>Pſal.</hi> 119.106, 1 12. <hi>Pſal.</hi> 13<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>.4, 5.</p>
+            <p n="2">2. The wiſdom of Magiſtrats ſtands in acquainting themſelves with the word of the Lord, which makes the ſimple wiſe; ſome are Branded <hi>Jer.</hi> 6.10. The word of the Lord is to them a Reproach, for they have no delight in it; they mock Piety, and Scripture, the rule of Piety, ſuch are in the higheſt Claſſe of Sinners, who are in the ſeat of the Scorner, as ſome tranſlate it, the Chair of Peſtilence, importing, as ſuch are pla<g ref="char:EOLhyphen"/>gued in their own Spirits, ſo are they the plague of their Generation; Ah! This pla<g ref="char:EOLhyphen"/>gue is too riſe among us: But be ye not Mockers leaſt your bands be made ſtrong. I<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <hi>ſaiah</hi> 28.22. God will caſt a Chain of his wrath about ſuch, which, if Mercy and Repentance prevent not, will grip and ſmart them to all Eternity. But I ſay, Magiſtrats who would be truely wiſe, not only for Eternal Life, but for Humane Affairs and Go<g ref="char:EOLhyphen"/>vernment, would acquaint themſelves with the word of God, where the Rules of Go<g ref="char:EOLhyphen"/>vernment are inſert, the ſins of Governours related with the Snares they have fallen in by committing ſuch Sins, the examples of good Governours for imitation are ſet before them, and the examples of the bad as Beacons to warn of Dangerous Rocks on which others have Split.</p>
+            <p n="3">3. The wiſdom of Magiſtrats ſtands, in the right ordering of the Kingdom, the State in Civil Affairs, the Church in Religious Matters, promoting Religion, and the right ordering of their Perſons and Familie<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>.</p>
+            <pb n="11" facs="tcp:35496:6"/>
+            <p n="1">1. In right ordering the State in Civil Affairs, for it will never be well with the Church, if not well with the State; for the wicked Will walk on every ſide; when vileſt Men are exalted, <hi>Pſalm</hi> 12. <hi>laſt; When the wicked riſe, Men hide themſelves.</hi> Prov. 28.28. <hi>When the righteous are in Authority, the people rejoyce; when the Wicked bear rule the people mourn,</hi> Prov. 29.2. <hi>David</hi> was of a good mind: <hi>Mine eyes</hi> (ſaid he) <hi>ſhall be upon the faithful of the Land, who walk in a perfect heart, that they may dwell with me, and I will deſtroy Evil doers from the City of the Lord.</hi> Pſal. 101.6, 8.</p>
+            <p>There be four ſorts of Perſons Dangerous in a State, and who endanger Crowned Heads, and runs them on Precipices. 1. <hi>Sycophants</hi> and Flatterers, ſuch were the 400 falſe Prophets to <hi>Achab,</hi> 1. <hi>Kings</hi> 22. 2. The Envyous, ſuch were the Courtiers about <hi>Darius. Dan.</hi> 6. 3. Selfiſh, Ambitious and Covetous Men, who ſeek the glory of their own Houſe, ſuch a one was <hi>Haman. Eſther</hi> 3. 4. Heady and Young Counſellours, like <hi>Re<g ref="char:EOLhyphen"/>hoboams,</hi> who occaſioned the Revolt of the ten Tribes. 1 <hi>Kings.</hi> 12.</p>
+            <p>Now then it is the wiſdom of Kings, to make a right Choice of Favourites for Truſt, and to have ſuch in the Government as are deſcribed. <hi>Ex<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d,</hi> 18.21. 1. Able men, for Greatneſs, Reſolution, Courage and Conſtancy of mind, the beſt preſervative againſt Partiality, and corruption in Judgement. 2. Men fearing God, that will reſtrain them from all injuſtice, even when they have Ability and Opportunity to injure. 3. Men of truth, Faithful, ſuch as love the Truth, and diligently labour to find it out in all Cauſ<g ref="char:EOLhyphen"/>es, and paſs true and right Sentence without reſpect of Perſons. 4. Men hating Cove<g ref="char:EOLhyphen"/>touſneſs, Gifts, and Bribes, the great Corrupters of Judges and Judgements, overthrow<g ref="char:EOLhyphen"/>ing them, <hi>Prov.</hi> 29.4. For when Gifts gets hold on the Heart, they blow a Duſt in the Eyes of the wiſe to blind them.</p>
+            <p>It is the great Wiſdom of Magiſtrats to be careful that Juſtice be Diſpenſed diſcreet<g ref="char:EOLhyphen"/>ly, ſpeedily expeding Cauſes, (not fretting the Spirits of people by undue delays) impartially and univerſally to all, reſolutely, couragiouſly, righteouſly, exactly, ſober<g ref="char:EOLhyphen"/>ly and diligently; And thus Judgment returning unto Righteouſneſs, and all the upright in heart ſhall follow it, <hi>Pſal.</hi> 94.15.</p>
+            <p>
+               <hi>2ly,</hi> Good Laws, which are the Sinews of Societies would be Enacted; the greateſt perfection whereof ſtands, 1. In their conformity to that prime and eternal Law of God, the Law of Laws, 2ly, In their vigour when they are put in execution: written Laws are for direction, and the living Law (that is the Magiſtrate) is for Action, to ſee that direction obeyed; Laws are not made for Theory, but for Practice, and the beſt Practice on the part of the People it obedience, and on the part of the Magiſtrat, Exe<g ref="char:EOLhyphen"/>cution, when Rewards, and Puniſhments are duely applyed; wrong application of ei<g ref="char:EOLhyphen"/>ther, is hurtful: Laws would be well reſolved before Enacted, and ill grounded, ill reſolved Laws would be Reſeinded; ſuch as the Law of worſhipping the King's Image, under the pain of the fiery Furnace, <hi>Dan.</hi> 3. The Law diſcharging praying to any but the King for 30 days, under the pain of being caſt into the Lions Den, <hi>Dan.</hi> 6. The ſtrait Commands againſt Preaching in the Name of <hi>Jeſus, Act.</hi> 4. and 5. Many ſuch griev<g ref="char:EOLhyphen"/>ous Laws have been made, under which the Lord's people has ſmarted fore; and many has built themſelves upon their ruines, by the Laws of Forfeitures and Fines, thoſe would be reduced, which would eaſe the grieved minds of theſe beſt affected to the Go<g ref="char:EOLhyphen"/>vernment in the Nation, the doing whereof would make the Government lightſome: The gain of Oppreſſion has a Curſe in its boſom, there is a Worm at the root of ſuch
+<pb n="12" facs="tcp:35496:7"/>Gourds, the belief whereof would make the Poſſeſſors of other mens Eſtates and goods, part with them without a grudge.</p>
+            <p>To prevent the making and Execution of bad Laws, and for the enacting and execution of wholſome Laws; it is the wiſdom of Kings to chooſe ſingle-hearted, ſelf-denyed, and pi<g ref="char:EOLhyphen"/>ous men for Truſt, ſuch as preſer the Intereſt of the Prince of the Kings of the earth before a Kings intereſt on earth; and the Kings intereſt before their own, and the ſaving of their own Souls, before the raiſing of their Fortune, and advancing of their Honour.</p>
+            <p n="3">3ly, The wiſdom of Magiſtrats ſtands mainly in this, in bending their chief care about Religious concerns, promoting of Piety, advancing <hi>Zions</hi> welfare: <hi>David</hi> ſays, <hi>Pſalm</hi> 132. By Vow and by Oath, he would not come to the Tabernacle of his Houſe, nor go up into his Bed, nor give ſleep to his eyes, nor ſlumber to his eye-lids, untill he found a place for the Lord, an habitation for the mighty God of <hi>Jacob, Pſal.</hi> 137.5, 6. <hi>If I forget thee, O</hi> Jeruſalem, <hi>let my right hand forget her cunning;</hi> that is, Let me never do a right turn, if I do not remember thee, <hi>Let my tongue cleave to the roof of my mouth;</hi> that is, Let me never ſpeak a right word, <hi>if I prefer not Ieruſalem above my chief joy.</hi>
+            </p>
+            <p>Firſt, You would promote Piety by your Commands, ſo did <hi>Aſa,</hi> 2 <hi>Chron.</hi> 14.2, 4. <hi>He did that which was good and right in the eyes of the Lord his God: And commanded Judah to ſeek the Lord God of their Fathers, and to do the Law and the Commandment.</hi> And <hi>Joſiah a Chron.</hi> 34. He Covenanted the people to walk after the Lord.</p>
+            <p>Secondly, promote Piety by the Example of your Perſons and Families, <hi>I will behave my ſelf,</hi> ſaith <hi>David, Pſal.</hi> 101.1.2. <hi>&amp;c.</hi> within my houſe with a perfect heart, nor would he ſuffer with him theſe who were Slaves to Vice and Immoralities: Magiſtrats would ſtudy ſound Principles, and ſteer their Courſe by the Compaſs of the Word, as <hi>Joſh.</hi> 1.8. &amp; 24.15. They would deſign Gods glory above all. <hi>Conſtantius</hi> the Father of <hi>Constantine</hi> tryed his Courtiers wiſely; who adhered to truth, he honoured them, who forſook Chriſt, them he Degraded, and ſaid, who were falſe to God, would never be true to him: Much depends upon Magiſtrats perſonal carriage, and their Courts; Leaders of people eaſily cauſes them to err, <hi>Iſa.</hi> 9.16. One wicked man in Authority deſtroyes much good, <hi>Eccleſ.</hi> 9.18. Their example is ſo powerful.</p>
+            <p>Thirdly, Magiſtrats would encourage, ſettle and maintain a learned, pions, faithful and painful Miniſtry, men according to Gods own heart, who may ſeed his people with knowledge and underſtanding, <hi>Jer.</hi> 3.15. And not men according to their own humour, to ſtarve, or poiſon people.</p>
+            <p>Fourthly, Magiſtrats would promote the true Worſhip of God, aboliſhing all ſalſe Worſhip, and Monuments of Idolatry: So did the Godly Magiſtrats, 1 <hi>Chron.</hi> 29. 2 <hi>Chron.</hi> 17, <hi>&amp;c.</hi>
+            </p>
+            <p>Fifthly, Magiſtrats would have a fervent care, to order Seminaries of Learning, ſet<g ref="char:EOLhyphen"/>ling them with Able, Learned, Pious Men. It is an old trick of <hi>Rome,</hi> to poiſon the Fountains that the Streams may be mudded: Children are the Seminaries of the Church, and if the Seed be nought, the Crop is bad; they are in a great miſtake who think the ordering the Seminaries of Learning is a buſineſs purely Civil; for Children ſhould be taught Piety with humane Learning; young ones may get a Wramp, and a wrong ſet by bad Maſters, that many Miniſters will not cure; a new Veſſel ill ſeaſoned at firſt, 'tis <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> wear it out; It's dangerous to ſuck in poiſon with milk.</p>
+            <pb n="13" facs="tcp:35496:7"/>
+            <p>Sixthly, Magiſtrats would have a ſpecial care as to ſettle, ſo to preſerve the Hedge of true Government in Chriſts Church, as may beſt keep out the Wild Boar, that would corrupt both Doctrine and Manners: having enlarged on this purpoſe the laſt Seſſion of Parliament, in the preſence of His Majeſties then High Commiſſioner, I give but a few ſhort hints now. Firſt I told, that Church-Government was no light matter, it's an Or<g ref="char:EOLhyphen"/>dinance of God, the Royal Diadem of Chriſt; he was a Martyr on this head; it was his Di<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ay on the Croſs, <hi>Joh.</hi> 19.19. <hi>Jeſus of Nazareth, King of the Jews.</hi> Secondly That there was a diſtinction between Eccleſiaſtick and Civil power, the Scripture con<g ref="char:EOLhyphen"/>demns <hi>Church-men</hi> uſurping Civil power, and <hi>States-men</hi> uſurping Church power. Third<g ref="char:EOLhyphen"/>ly, That Chriſt, the alone Head and King of his Church, had appointed a Form of Go<g ref="char:EOLhyphen"/>vernment, for puniſhing Scandals, inflicting Church-Cenſures, making Church-<hi>Canons,</hi> and has not left it to mens Arbitriment to come and go upon them, no mans will being a ſtandart in this matter, <hi>Moſes</hi> might not alter a pin from the pattern ſhewed in the Mount. <hi>Exod.</hi> 25.9. And if <hi>Moſes</hi> was faithful in the Houſe as a Ser<g ref="char:EOLhyphen"/>vant, much more Chriſt as a Son, whoſe houſe we are. <hi>Heb.</hi> 3.5, 6. Fourthly, That in the <hi>Old Testament,</hi> there vvas a <hi>Church Government,</hi> diſtinct from the State, the ſame Reaſons abide for one in the N. T. Fifthly, I told you the end of <hi>Church Government</hi> was Spiritual, the perfecting of the Saints, the Edifying of the Body of Chriſt. <hi>Eph.</hi> 4.12. Sixth<g ref="char:EOLhyphen"/>ly, That for Circumſtantials of Government, general Rule<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, managed with prudence, were ſufficient: For Subſtantials, the Scripture is clear, which none can alter. There be theſe five expreſly ſet down. 1. Church Officers as ye have them diſtinguiſhed, <hi>Pastors, Teachers, Elders, Deacons. Eph.</hi> 4.11. 1 <hi>Theſ.</hi> 5.12. 1 <hi>Tim.</hi> 5.17. Act. 6. <hi>&amp;c.</hi> And not a <hi>Prelate</hi> mentioned among them all. 2ly. Church Courts and Judicatures, <hi>Mat.</hi> 18.16, 18. Tell the Church, the Apoſtles were members of it, it was no Civil Court. 3. Su<g ref="char:EOLhyphen"/>bordination of leſſer Judicatures to greater. Act. 15. They came from <hi>Antioch,</hi> to a more general Council at <hi>Jeruſalem,</hi> for Deciſion of a matter. 4ly. We have the order of proce<g ref="char:EOLhyphen"/>dure in relation to Cenſure, <hi>Mat.</hi> 16.26. <hi>&amp;c.</hi> Firſt, privat Admonition, then more publick. <hi>5ly.</hi> The natural kind of theſe Cenſures, which is not Bodily, as taking away the Life or Goods, but Spiritual, as Admonition, Reproof, <hi>&amp;c.</hi> Now there is a Charge gi<g ref="char:EOLhyphen"/>ven, to obſerve all theſe things inviolably, until Chriſt's ſecond coming. 1 <hi>Tim.</hi> 5.21. 1 <hi>Tim.</hi> 6.14. This Government, we hope, will be manadged with all Diſcretion and pru<g ref="char:EOLhyphen"/>dence, ſo as may beſt tend to the Edification of all, and irritation of none.</p>
+            <p>This Government we owne (and which we bleſs God this Honourable Court has owned and eſtabliſhed by Law) was owned by Ambaſſadors from moſt of the reformed Churches in <hi>Europe</hi> at the Synod of <hi>Dort,</hi> to which all Subſcribed ſave two. Moreover, it was ſworn to in this Nation about 100 years ago, by perſons of all Ranks: Beſides, it ſeems to prove it ſelf to be of God; Firſt, being moſt anſwerable to the ends foreſaid, of eſtabliſhing a <hi>Miniſtry, Eph.</hi> 4.12. 2. Guarding beſt againſt Vice and Error. 3. It keeps Ordinances beſt from pollution, and the Church from infection. 4. If it be not moſt Witneſſed to, by the Spirits operation, in the conviction, converſion, and conſola<g ref="char:EOLhyphen"/>tion of ſouls, let God and the World judge: Had we not been perſwaded of theſe things, what fools would we have been, to have ſuffered one year, let be ſo many years ſeverity on that account. I judge they will not tell by hundreds in <hi>Scotland</hi> among the ſober, ju<g ref="char:EOLhyphen"/>dicious, and ingenuous, who will ſpend their breath againſt this Intereſt; and if any do,
+<pb n="14" facs="tcp:35496:8"/>it is moſtly theſe who indulge themſelves, and loves to be indulged in their luſts, and loves ſkowth and elbow-room to ſin without control.</p>
+            <p>Chriſt will not deny <hi>Ceſar</hi> his due, nor will Chriſt want his own, he will not endare the Pairing of the Priv<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>edges of his Church, nor the <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>r<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>thing her in the uſe of that intrinſick Power, which bleſſed be God is given in Scripture, and was exerciſed 300. Years before there was a Chriſtian Magiſtrat to owne her: And which Power Church Officers muſt uſe when Magiſtrats are Ene<g ref="char:EOLhyphen"/>mies, although they ſhould offend, and may uſe when Magiſtrats are Friends, who will not of<g ref="char:EOLhyphen"/>fend; It is true there is Reaſon to acquaint them with ſuch occaſions, we give unto the Magiſtrat, what GOD gave them, a Cumulative Power to help the Church, and they may call a Church Judicature to conveen; but we deny them, what GOD denies them, a Privative Power to hurt the Church, and deprive her of her due; Magiſtrats ſhould be Nurſing Fathers to encourage, and no <hi>Step. Fathers</hi> to dwang the Church.</p>
+            <p>That Magiſtrats of all Ranks ought to be Wiſe and Underſtanding Men, is clear, they ſhould be able to diſcern Good and Evil; that they may rightly Time and Circumſtantiat their Actions. <hi>D<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ut.</hi> 1.13. <hi>Eccleſ.</hi> 8.5. It is threatned as a Judgment, when Princes are Children and Bab<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> in Underſtanding. <hi>Iſa.</hi> 3.4, 5. <hi>David</hi> in his Prayer for <hi>Solomon,</hi> ſayes, <hi>Lord, give him a perſect heart.</hi> 1 <hi>Chrom</hi> 29.19. And in his bleſſing of him, <hi>Lord give thee wiſdom and underſtanding;</hi> 2 <hi>Chr.</hi> 22.12. And when God gave <hi>Solomon</hi> a Choice, what was his deſire? 1 <hi>Kings</hi> 3.9. <hi>Lord, give thy Servant an underſtanding heart, to judge thy people, and diſcern between Good and Bad.</hi>
+            </p>
+            <p>There be three Reaſons why Magiſtrats ſhould learn Wiſdom. 1. Becauſe of the Figure they hear by their Office, imported in their Styles, namely, firſt, they are called <hi>Gods,</hi> and Sons of <hi>God. Pſal.</hi> 82. 2ly. Saviours of the People. <hi>Judg.</hi> 2.16. Who ſhelter againſt the Rage and Violence of the Wicked. 3ly. Fathers to the People, and Nurſing Fathers to the Church. <hi>G<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n.</hi> 45.8. <hi>Iſa.</hi> 49.23. Importing not only Power and Authority, but Tenderneſs, Care and Pity: 4ly. Heads of the Body Polltick. <hi>Num.</hi> 16. That influence the Body to direct and rule the Mem<g ref="char:EOLhyphen"/>bers. 5ly. The <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>yes of a State, <hi>Job.</hi> 29.15. To overſee the manners of a People. 6ly. The Servants of God by way of Eminency, <hi>Jerem.</hi> 27.6. To improve their Gifts for the good of the <hi>Common Wealth.</hi> 7ly. The Shepherd of the People, <hi>Numh.</hi> 27.17. to Feed, Lead, Defend and Watch over them. 8ly. Healers of the People, to bind up their wounds. <hi>Iſa.</hi> 3.7. 9ly. Pillars, Corner-ſtones, Foundations of the Earth. <hi>Pſal.</hi> 11.3. <hi>Pſal.</hi> 75.3. <hi>Z<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ch.</hi> 10.4. Becauſe they unite and uphold the Building. 10ly. Shields of the Earth. <hi>Pſal.</hi> 47. laſt ver. That ſhould protect God's Ordinances and People in their Lives, Liberties and Eſtates. 11ly. Overſeers. <hi>Prov.</hi> 6.7. That are careful, that theſe under them live in Peace and Piety. Laſtly, They are called Coverts and hiding Places. <hi>Ezek.</hi> 28.10. That muſt refreſh and protect People under their ſhadow: All theſe ſays, Magiſtrats have need to be Wiſe Men.</p>
+            <p>A ſecond reaſon, becauſe of Gods ſeverity threatned in time on ſuch in Office as miſ-behave, for Magiſtrats are neither above inſtruction, nor without correction, if they fall, <hi>Job.</hi> 12.21. He pouts contempt upon Princes, and weakens the ſtrength of the Mighty, <hi>pſal.</hi> 110.5. <hi>He ſhall ſtrike through Kings in the day of his wrath, Pſal.</hi> 76.12. <hi>He is terrib<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e to the Kings of the Earth, he ſhall cut off the Spirit of Princes.</hi> This ſhould inſtuence Magiſtrats to ſe<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>k after Wiſdom, con<g ref="char:EOLhyphen"/>f<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ering they have to do with him, who is the Prince of the Kings of the Earth. <hi>Rev.</hi> 1.5. Zions King, to whom they are all countable, for We muſt all appear before the Tribunal of Chriſt. 2 <hi>Cor.</hi> 5.10. And all of you here muſt appear that day, no Mans Honour or Office will procure a Diſpenſation for abſence from that Court, where he Judges without reſpect of Perſons. 1. <hi>Pet.</hi> 1.17. <hi>He accepts not the Perſon of Princes, he regards not the Rich more than the Poor, for they are all the work of his Hands.</hi> Job. 34.19. Take heed therefore and be wiſe, He will not ſo much a<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>k, were you <hi>King, Duke, Marqueſs, Earl, Lord, Barron, Burges,</hi> as how behaved you in your Station and Truſt? And theſe who would Brawl and ſpit in his Meſſengers Face will be mute, when the Ma<g ref="char:EOLhyphen"/>ſter reckons: <hi>When the King came in, the man was ſpeechleſs.</hi> Matt. 22.12. There may be ſome hearing me this day, who will hang their Heads, and ſing dumb that day.</p>
+            <p>A third Reaſon why Magiſtrats needs Wiſdom, is, becauſe they are lyable to Difficulties and
+<pb n="15" facs="tcp:35496:8"/>Dangers; great is their Task to know the ſtate of theſe under them, to hear the plaints of the Foor, to repreſs the Inſolencles of the Proud, to Miniſter Ju<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ice to all. Although God exalt them above others, yet are they Servants to Subjects, in that they watch for their Well and Safeti<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, <hi>Rom.</hi> 13.1; 4. They are the Miniſters of God, to People for their good: many are quick ſight<g ref="char:EOLhyphen"/>ed to ſee their Defects, who ſee neither their Difficulties nor Dangers; every curbed Humour, by ſear of Puniſhment frets againſt them; it's impoſſible for them to pleaſe all, they are in dan<g ref="char:EOLhyphen"/>ger from open Enemies, ſecret Male Contents, Fraud and Flattery Hazards them, as one ſaid, both Solitarineſs and Society are dangerous to Princes, yea ſometimes they are not ſecure amidſt their Attendants; ſome have fainted, and laid down their Crowns and Honours, becauſe of thaſe things; but Plety and Prudence is the beſt Remedy, the more a Magiſtrat be a ſeeker of God, the more Wiſdom he ſhall find in that Fountain. <hi>Iſa.</hi> 11.2. The compleat Furniture of a Magiſtrat begins at the Spirit of the Lord, to reſt on him, and is ſpecified in the Spirit of Wiſ<g ref="char:EOLhyphen"/>dom and Underſtanding, the Spirit of Counſel and Might, and cloſes with the Spirit of the fear of the Lord, or true Piety: Piety and Prudence will help to exped Difficulties, and helps to Mo<g ref="char:EOLhyphen"/>deration in Government, which makes it more durable; if <hi>Rehoboam</hi> had hearkened to the mo<g ref="char:EOLhyphen"/>derat Counſel of the Antients, belike he had keeped the ten Tribes to the Houſe of <hi>David:</hi> Plety and Prudence helps to Magnanimity and Courage, to Graple and Conflict with Evils, Enemies. Difficulties, and Dangers; <hi>David</hi> Graples with <hi>Goliath, Calth</hi> with the <hi>Anakims, Paul</hi> with Bonds and Affl<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ctions. <hi>The Righteous is made bold as a Lyon.</hi> Prov: 28.1. <hi>His heart is eſtabliſhed, truſting in the Lord, he will not be afraid untill he ſee his deſire upon his Enemies.</hi> Pſal. 112.8, <hi>I will not be afraid of ten thouſands of the people that beſet me round. Pſal.</hi> 3.6. <hi>I will not be afraid tho an h<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſt encamp against me,</hi> Pſal. 27.3. <hi>Should ſuch a man as I fl<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t,</hi> ſays <hi>Nehemiah ch.</hi> 6.11. It is a Mercy, not only to be keeped ſafe from Danger, but quiet from the ſear of Evil, and this is the Privi<g ref="char:EOLhyphen"/>ledge of the Holy and Wiſe, who hearken to the Lord. <hi>Prov.</hi> 1.33. You ſee then that Holy Wiſdom is moſt needful to Magiſtrats on all theſe Accounts.</p>
+            <p>
+               <hi>Appl.</hi> I have two words to ſay to Magiſtrats, and People jointly.</p>
+            <p>Firſt. It is our wiſdom to pray and watch againſt theſe things amongſt us that are evil tokens, and threatens both Church and State with Judgments, upon the account whereof many Hearts trembles. 1. When men do not loath their own Hearts, for their unprofitableneſs under Ordi<g ref="char:EOLhyphen"/>nances, but weary of them as their burden. 2ly. When men proſeſſing the fear of the ſame God, are mutually contentions, and continue to be ſo; when Brother-hood is broken, an idol Shep<g ref="char:EOLhyphen"/>herd is ſet up. <hi>Zeck.</hi> 11.14, 15. 3ly. Peoples breaking Vowes to the Lord, of cleaving to him in his Ordinances, and remaining Impenitent. 4ly When Additions are made to the Or<g ref="char:EOLhyphen"/>dinance of Chriſt, by the inventions of men. 5ly. When people ſeek to aboliſh any Ordinance of Chriſt, either becauſe of ſome outward Evil they bring with them, or hope of ſome outward Ad<g ref="char:EOLhyphen"/>vantage by caſting them off<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 6ly. Mens driving the Lord Jeſus out of his Ordinances by ſecret and ſpiritual pollutions thereof, either by ſecret contempt and wearineſs of them, or by unbroken<g ref="char:EOLhyphen"/>neſs of heart in the enjoyment of them, when people live not in the dayly ſenſe of an extreme need of Mercy. 7ly. When people go to Ordinances, and go not to the Lord of Ordinances, for the bleſſing. 8ly. When the People are unwilling and careleſs to receive the ſtroak, of the Eternal Power of the Life of Jeſus in their hearts. 9ly. When people do not only ſin, but grow to that height to caſt off all reprooſs, and chriſt-like admonitions for ſin. 10ly. When Men caſt off ſecret Dread, Fear and Reverence of the Majeſty, Dominion and Soveraignity that God ſtamps on Authority, <hi>Jude.</hi> 8. and have low deſpiſing thoughts of Magiſtrats, and ſeek to pluck the Sword of Revenge for ſins, that hurt the Common wealth, out of their hands, without which the greateſt Power and Authority is but a Vanity and Nuility. 11ly, Whoredom and unclean<g ref="char:EOLhyphen"/>neſs, tho riſe among us, for which the Lord will Judge. <hi>Heb.</hi> 13.4. 12ly. Swearing and Cor<g ref="char:EOLhyphen"/>ſing, too riſe alſo among all ſorts, proſaning the Lords holy Name, Men, and great Men thinks Oaths the flowriſh of their Diſcourſes, and that then they ſpeak with Power and Authority; But I tell them, be of what Quality they will, they are Gods enemies who take His Nar<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> in vain; <hi>Pſalm</hi> 139.20. 13ly. Frequent, Familiar; needleſs haunting with perſons perverſe in prin<g ref="char:EOLhyphen"/>ciples and practices, by which many learn their way<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>; get a ſnare to their Soul; and partaking of
+<pb n="16" facs="tcp:35496:9"/>their ſins, receive of their plagues; <hi>Prov.</hi> 22.25. <hi>Rev.</hi> 18.4. This has been the neck break o<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> this Generation; <hi>Prov.</hi> 13.20. by which companions of Fools have been deſtroyed. 14ly. Much unrepented of guilt in the Perſecuters of theſe bygone years; I am afraid till there be more re<g ref="char:EOLhyphen"/>ſentn<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>nt of theſe things; Gods wrath will not be paci<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ied. We have been deeved with the noiſe of ſome, abuſively called, the Cl<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>y their Suffering<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> in Pamph<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>s with Atteſtations juſtly jealouſed, which will be overthrown <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>re long by a true Relation: I am not ſpeaking by way of Approbation of Injuries. But how tender the Conſciences of Authors are, you may conjecture from their wide ſpeaking; likening their Flea bit Sufferings (in compariſon of ours) to the Dragooning in <hi>France.</hi> What ſhall I ſay; it would conſume time, to reckon up ſo much as the kinds of the Sufferings we have been tryſted with. Some of all Degrees, and ſome of the beſt Quality, ſha<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>d deep<g ref="char:EOLhyphen"/>ly in Suffering, even unto Blood, Baniſhment, and Confinement, and Impriſonment; and Mini<g ref="char:EOLhyphen"/>ſters among others to pave the way to Prelacy, and make its introduction the more eaſie, and al<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the Miniſters of <hi>Edinburgh,</hi> ſave one (who had little cauſe to boaſt of any outward advantage by Conformity) ſummarly warned by the States to remove from their Charges, without Citation o<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Accuſation, and by the daſh of one Act a little after, about 300 Miniſters removed from their Con<g ref="char:EOLhyphen"/>gregations, without Citation or Accuſation. It were eaſie for me to prove the ſufferings of ſour o<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> five <hi>Presbyterian</hi> Miniſters, to ſurpaſs what a hundred of them has met with: What ſhall I ſay o<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the Sufferings before, and in the year 1666? a few pages in that once forbidden Book <hi>Naphtali<g ref="char:punc">▪</g>
+               </hi> will far ſurmount all the Accounts of their Sufferings, what vaſt ſums of money exacted, pillaging of houſes, preferring their Dogs to the Children of the Family, in ſharing of the proviſions of the houſe, beſides unheard of Barbarities, Mockings, Threatnings, when the people went about the Worſhip of God? <hi>&amp;c.</hi> And the ſhedding of the blood of many; and ſince that time, what In<g ref="char:EOLhyphen"/>tercommuning of many, denying them the uſe of things uſeful and comfortable, ſome of whom were ſtrangely circumſtantiat, blind and impriſoned, who could not move for their own rellef, cru<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> Impriſonment in unwholeſome Priſons, Miniſter: and others, ſome ſeveral months, ſome ſevera<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> years, two, three, five, ſeven, ſome eleven years in Priſon, which uſage has occaſioned Diſeaſes<g ref="char:punc">▪</g> and the death of many, and not a few Miniſters and others, dying in their Priſons, for whom no Intreaties could prevall, for getting them out of priſon, where they might have been better atten<g ref="char:EOLhyphen"/>ded, many ſhut up in cloſs Priſons, and no cauſe made known, and one among the reſt above 20 weeks ſhut up, for 13 weeks whereof his nearell relations not admitted to ſee his Face, nor ſo much as ſpeak to him through the lock of the Door, though he was in great indiſpoſition, none allowed to do him any ſervice, and to this day the cauſe never ſignified; what Finings, Confinings, Forſeltures and Baniſhments, what Tortures, and unheard of Tortures, and ſome of theſe multiplied upon one perſon, and men without bowels beholding them Tormented. What killing in cold blood<g ref="char:punc">▪</g> and women execute meerly for their Opinion, who were no <hi>Idolaters,</hi> nor abettors of <hi>Idolatry!</hi> ſome after Sentence, not getting leave to draw their breath before execution; what barbarous beating of Drums at Scaffolds? what hunting of Miniſters and others like <hi>Partridges</hi> on the Mountain<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> night and Day, lying whole Nights, Summer and Winter in woods, and open fields? What vio<g ref="char:EOLhyphen"/>lent driving of Families from their Houſes, driving, and ſelling of their Goods and Cattel, laying many Families waſte, violent intruding, poſſeſſing their Houſes, Lands, and Goods, withou<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> any ſentence in Law; There be hundreds of unqueſtionable witneſſes of all theſe thing<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> What Cruel Urging the Conſciences of People, Men and Women (who had but a free Cottage) with a Bond to give ſuch and ſuch Miniſters, and others, not ſo much as a Nights Lodging, or <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> meal of Meat, which appeared to be heavy on the Conſciences of many (overtaken with the Temptation) that when awakned they had no reſt till they made a publick Conſeſſion, before Congregations of People. I knew a Miniſter ſpeak to above 80 of them, who with Grief and Tears confeſſed their Guilt before the People; At one Meeting 39. Men, and Women, not above two known to the Miniſter before, reſolving their appearance, roſe up in all quarters crying, <hi>Guilitie, Guiltie.</hi> What Exorbitant Exactions, and Vaſt Summs before ſome Noble Men and Gentle<g ref="char:EOLhyphen"/>mens Families could be Relieved by any acceſs to their own Eſtates; not to ſpeak of the <hi>Bar<g ref="char:EOLhyphen"/>barous Highland Hoſt;</hi> nor of that Violent Preſſing of the Oath of the <hi>Teſt,</hi> (a perplexing Oath<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <pb n="17" facs="tcp:35496:9"/>on many even beyond Lew, to the preſſing of their conſciences, and that Pitiſul conſequences followed on it? amongſt the reſt, the Cuting off of one of the greateſt men of our <hi>Iſrael,</hi> the late Noble Earl of <hi>Argyl.</hi> What Volumes, beyond Foxes, monuments might be Written, there is but one <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nſtance, that were it meet to relate the circumſtances thereof (which I know from a Miniſter, and another perſon of Credit, both ſharing in that deep di<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>reſs, would make hearts that were not rocks to rent! A number in priſon taken from <hi>Dumfries,</hi> ſome week, Sick, and Aged, ſome Women with Child, ſome Criple, and many others taken up by the way out of other priſons, and pricked up like beaſts, beſide other hard uſages in their journey, to the Caſtle of <hi>Dunotter,</hi> where about 168. Men and Women were thruſt in one Vault, and conſidering the neceſſities of Nature, having ſcarcely room to ſtand; What caſe they were in for ſome dayes, <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>dge ye: Yea, at their entry when ſcorched with thriſt, denyed water by the Souldiers with<g ref="char:EOLhyphen"/>out Money! Many hardſhips they endured, that it coſt ſome of them their Lives: And after a long times diſtreſs there, were driven back to <hi>Lothian,</hi> all ſave two or three, tyed and flightered like Thieves; and about eightie of them ſent to <hi>America.</hi> If there be any here who ever gave coun<g ref="char:EOLhyphen"/>tenance, or active concurrence to any of theſe forementioned ſufferings, I charge you upon your perril to repent, and judge your ſelves, that ye be not judged of the Lord. Some will poſſibly ſay, as <hi>Iſaiah</hi> 30.10. Miniſter, preach ſome other things to us: but as <hi>Micajah</hi> ſaid, we ſay, <hi>what the Lord ſayes, that we muſt ſpeak;</hi> God be thanked we have not an <hi>Ahab</hi> to deal with; But though it were ſo, we behoved to ſpeak our Maſters Mind; many a time we have preached, and diſtribute the Childrens Bread; with the perril of our Lives, and theirs; and would do ſo yet, if called to it; But God forbid that ever it come to that again among us, but Lord ſend no worſe. Before that ſecond word to M<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>giſtrats, and People joyntly; Add to what goes before; That the con<g ref="char:EOLhyphen"/>ſideration of the hundreth part of our Sufferings makes many Judicious, who will not approve what others have met with, wonder it was no worſe, conſidering what was the Spring and Fountain whence theſe deep and bitter waters did flow, and upon whoſe account, and by whoſe Inſtigation: But far ſhall it be from U<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> to entertain thoughts of ſuch Barbarities, inhumanirles, and <hi>Antichriſti<g ref="char:EOLhyphen"/>an</hi> Uſages, as We have been Treated with, to urge the making or Execution of ſuch ſevere Laws, but rather Compaſſionat the Miſerable.</p>
+            <p n="2">2ly. I would ſay another word to Magiſtrats and People jointly, prove your wiſdom by the F<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>its of it, and I give you a Proof in the Apoſties words, which you may think up<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>, James 3.17. <hi>The Wiſdom that is from above is first Pure, then Peacable, Gentle, and eaſie to be intreated jull of Mercy, and good Fruits, without Partiality, and without Hyp<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>riſie.</hi>
+            </p>
+            <p>I intended to have preſſed on the People their dutifull reſpects to Magiſtrats, Supreme and Sub<g ref="char:EOLhyphen"/>ordinat, upon the Apoſtles prounds. 1 <hi>Pet:</hi> 2.13.14. <hi>&amp;c.</hi> Firſt, for the Lords ſake, and that Honour and Majeſtie Chriſt ſtamps on them. 2ly. Becauſe they are in the Lords room to do his work, in Puniſhing ill doers, and rewarding theſe that do well; If this Power be abuſed, they muſt anſwer to him. 3ly. Becauſe this is the will of Chriſt, and the way ſo ſtop the Mouths of fooliſh Men. 4ly This is our Libertie and would not be uſed as a cloak of Licentiouſneſs, we owe to them firſt reverence, and that in our Minds not to Cur<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e him in our thoughts, <hi>Eccleſ:</hi> 10, 20. In our Words not to rail againſt him, <hi>Acts:</hi> 23, 5. The Authoritie of Magiſtrats is very tender in our geſtures, the Woman of <hi>Tekoah</hi> ſtoops to the ground, 2 <hi>Sam:</hi> 14, 4. 2ly We owe obedience in the Lord, from which Church-Men are not exeemed, 1 <hi>Pet:</hi> 2.13. <hi>Rom.</hi> 13, 1. If they Com<g ref="char:EOLhyphen"/>mand what is croſs to the Lords mind, we muſt ſerve them with <hi>Peters</hi> anſwer, <hi>we ought to obey God rather than Man; Acts</hi> 5, 29. 3ly We owe them Fidelity both to their perſo<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s and Authori<g ref="char:EOLhyphen"/>ty. 4ly We owe them aid and help, firſt, by ſaithfull counſel and advice, when called for, and diſcovery of ſecret Enemies and plots. 2. By our Eſtates, paving cuſtom, <hi>Rom:</hi> 13, 7. 3ly. By our perſons aſſiſting them, both againſt Countrey Rebels, and Forraign enemies, and when called for to venture our Lives for them in peace and war, 2 <hi>Sam:</hi> 21.17. &amp; 23.16. 4ly By our prayers, 2 <hi>Tim.</hi> 2, 2. (1) Becauſe they neither ſtand nor fall to themſelves, Magiſtrats, eſpecially So<g ref="char:EOLhyphen"/>veraigns, are the pillara of a Kingdom, <hi>Let me ſmite King Saul but once,</hi> ſaid Abiſhal, <hi>and the kingdom ſhall be thine, and the victory thine,</hi> 1 <hi>Sam.</hi> 26, 8. So ſaid <hi>Abithophel, let me ſmite king
+<pb n="18" facs="tcp:35496:10"/>David, and all Iſrael ſhall be gathered to thee,</hi> 2 <hi>S<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>m.</hi> 17.2. When <hi>Alexander</hi> died, the Ar<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ie was but one Man leſs than before, but yet it was compared by the Wiſe, to the <hi>C<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>clops</hi> which had its only eye bored out. Should we not pray for Magiſtrates, eſpecially the Supreme, who car<g ref="char:EOLhyphen"/>ry not only about their own lives, but the lives of thouſands depends on their ſafety: As it was ſaid to the King, <hi>Thou ſhalt not go forth with us any more to battle, least thou q<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ench the light of Iſrael, for thou art worth ten thouſand,</hi> 2 <hi>Sam.</hi> 18.3. 2 <hi>Sam.</hi> 21.17. We ſhould be earneſt to pray Magiſtrates may be Religious, becauſe of the power of their Example to good or evil, their vices paſs currant for vertues, and becomes a faſhion, when the King of <hi>Shechem</hi> yeelded to <hi>Circum<g ref="char:EOLhyphen"/>ciſion,</hi> a painfull thing, the whole City followed: Be a Prince never ſo great for Command, he Commands moſt by Example, let not our King and Judges want our Prayers.</p>
+            <p>Let me preſs upon Magiſtrates, that ye Studie Wiſdom in God's Matt<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>s and M<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ns alſo, both are required, <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>f they be Pious only in God's Matters and not otherwiſe prudent, then are they fitter for the <hi>Cloyster</hi> than the Court; if they be Prudent and Politick only, and not Plous, then are they fitter to be Kings of <hi>Babel,</hi> where dwel<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Confuſion, then of <hi>Jeruſalem,</hi> where God's Glory is: be carefull that God be honoured in the Nation, that abuſes, and Errours in Religion be reformed, Promorers thereof, and Seducers, diſcountenanced and puniſhed, and that the Purity and Truth of Doctrine he promoted and maintained, according to the Example of Godly Kings, 2 <hi>Chron.</hi> 3.4, 15, 12, 17, 6. That the word be purely Preached, that the good Things taught, and eſtabli<g ref="char:EOLhyphen"/>ſhed, for the precious O<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>dinances of Chriſt, be defended by Law, and done, as he hath appoin<gap reason="illegible" resp="#UOM" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>. 2 <hi>Chron.</hi> 18, 8.11. That the Wicked and Profan<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> be Diſcountenanced and Puniſhed, the wickedneſs of Subjects does great hurt to Gracious Kings, and tends to the ſhortning of their dayes.</p>
+            <p>Then I would preſs Magiſtrates to ſtudie a great inſight in affairs that concerns Honeſty and Equity: <hi>David</hi> had a good Inſight in Matters as an <hi>Angel</hi> of God, ſeeing Good and Evil. <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>. <hi>Sam.</hi> 14. <hi>Solomon</hi> diſcerned which was the true Mother. 1 <hi>Kings</hi> 3<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Magiſtrate<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ſhould provide that People lead a Peaceable and quit Life, in all Godlineſs and Honeſty. 2 <hi>Tim.</hi> 2. Then I would preſs on Magiſtrates to <gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>udy a good Foreſight of Dangers, to protect the People, prevent, or wiſely divert them. They muſt endeavour to deſend againſt all Enemies, <hi>Saul</hi> had little Foreſight, when <hi>David</hi> ſound him ſecure, <hi>David</hi> had <hi>Huſha<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi> in <hi>Abſalom's</hi> Court.</p>
+            <p>That Kings may be in better Capacity for this, they muſt have Revenues, called, <hi>Egra</hi> 4, 13. T<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ll. Trib<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>te, and Cuſtom, which three <hi>Caldea</hi> Words, imports the Properties of theſe Revenu<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s exacted of the People, that they ſhould be Moderat according to the Peoples Abllity, without Par<g ref="char:EOLhyphen"/>tiality, Inveterate, or Ancient, ſo ſar or ſo long, as the Common ſtate requires, and no more; for the ſafety of the King is the ſafety of the <hi>Common-weal,</hi> the ſafety of the <hi>Common weal</hi> is a Law above all Laws, ſuch Tributes, or Cuſtoms, call them as you will, are as neceſſary to uphold a State; as blood in the veins for conſerving the Life. We muſt diſtinguiſh between the time of Peace and the time of War, eſpecially when Lives, Liberties, and Religion, are at the Stake, our hearts muſt be inlarged without grudge, to make a liberal Offering, better venture much than loſe all. But if by Oppreſſion extreme Exactions be Collected, or publick money be Dilapidat by Self ſeeking Men, they may reſolve to ſmart for it at the hands of the Lord: There have been old and frequent Complaints of miſ-managements, when publick Money has either been beſtowed on men to uphold their debauches to conſume it on their Luſts, to uphold unlimited Luſt<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> and Deſigns of others; eſpecially there has been complaints of Officers of Armies, either withholding due pa<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ment from theſe in Arms, or pu<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ting Pay in their Pockets, and making a ſhaw of a Viſion at a Muſter, that diſappeared in the day of Battle.</p>
+            <p>
+               <hi>Honourable worthies,</hi> I incline not by <hi>Panegyricks</hi> to offend your modeſt ears, whoſe praiſe will be in the Church: But we bleſ<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> God, we have ſuch a King and Que<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap> to rule over us, and ſuch a Repreſentative of their Majeſties in this Honourable Court, and ſo many noble and worthy <hi>Pa<g ref="char:EOLhyphen"/>triots</hi> in this Aſſembly, who befriend the intereſts o<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>our Lord, who are other ways minded, we pray the Lord reveal it to them; but ſure were they better acquaint with our Maſter, they would ſoon change their minde. We bleſ<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the Lord, and we bleſs you from the Lord, with our hearts,
+<pb n="19" facs="tcp:35496:10"/>for what you have done for the houſe of the Lord, and for the hone we have, that what remaim to be done, ſhall be done, though hope deferred makes the heare ſick, but when the deſire cometh it is a Tree of Life; the deſire accompliſhed is ſweet to the ſoul, <hi>Prov.</hi> 13.12, 19. There are two things, I would deſire of this Honourable Court, The firſt <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> that what may give a back-ſet to the thing that is done may be forborn, that Truth be not abuſed by promiſeuous Tolleration, this were to love our eaſe more than God, and has produced ſad Effects, and Confuſions in ſome places of the World. There being no perſecution Threatued, Exerciſed, and for ou<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ht I know neither intended, by Church nor State, the muttering of ſuch a Tolleration as we <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eard of<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> is ſome Surprize which ſome of the ſober <hi>Conformiſts</hi> diſclaims: It is under pretence forſooth, of tender<g ref="char:EOLhyphen"/>neſs of Conſcience: how tender they are God knows and the World may know; I fear it is a <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ate <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n<g ref="char:EOLhyphen"/>come and diſtemper, which I apprehend, from what is implyed in their paper, of ſome <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ntention to introduce ſome Novelties, and Forms in the Worſhip of God, which this Church could never endure, nor durſt they adventure on in their greateſt height and freedom, although ſnme now preſume, contrare to our <hi>Confeſsion of Faith,</hi> which if I miſtake nor, owns no other Book for the Rule of Worſhip, but the Scriptures of the Old and New Teſtament. This ſcruple they expreſs, they cannot joyn in the Sacrament of the Supper with theſe who wants <hi>Epiſcopal</hi> Ordination, where<g ref="char:EOLhyphen"/>as they have for many years joyned with Conformiſts, that were never Re-ordained: It's appre<g ref="char:EOLhyphen"/>hended by many judicious, to be a myſtery of iniquity, to endanger both Church and State, and a ſhadow under which would ſhrud vice and error: And beyond queſtion, would propagat and perpetuat a Schiſm in this church; They had wont to ſlander Non-conſormiſts as Schiſmaticks; but the reaſon is not alike, for <hi>Presbyterians</hi> did ſtand their ground, and owned their Principies ſince the Reformation from <hi>Poptry</hi> by <hi>Presbyters.</hi> So the Schiſm firſt and laſt is on their ſide, this Tolleration would be buried under the Oak.</p>
+            <p>There is another thing that I would beg of this Honourable Court, beſide the care of ordering and purging the <hi>Seminaries of Learning,</hi> the removal of <hi>Pa<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>onages,</hi> not that we mean the injuring any in their juſt Civil Rights and Properties, although the firſt Original was good, to defend the Church and her Goods; Yet the uſurpation over the Church did ſpring from a bad Fountain, and the conſequence has been deſtructive to the Church, and a grievous bondage, many <hi>God provoking</hi> ſins has followed on it, <hi>Simoniacal compacts;</hi> It has been the ſourſe of a Godleſs inſufficient Mi<g ref="char:EOLhyphen"/>niſtry, we would not have you to prig with God in this matter; We hope, that <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <gap reason="illegible" resp="#PDCC" extent="4 letters">
+                  <desc>••••</desc>
+               </gap>touſ<g ref="char:EOLhyphen"/>neſs on the one hand, nor envy on the other, ſhall hinder the removing of this Yoke; Two wor<g ref="char:EOLhyphen"/>thy Miniſters have written on this Subject, Mr. <hi>Rule,</hi> and Mr. <hi>Park,</hi> ſo as may ſatisfie and give Light to theſe that will not ſhut their Eyes.</p>
+            <p>Honourable Worthies, what was ſaid to the Princes of <hi>Iſrael,</hi> 1 <hi>Chron.</hi> 22.19. I ſay to you, <hi>Now ſet your heart and ſoul to ſeek the Lord your God; ariſe therefore, and build the ſanctuary of the Lord God.</hi> 1 <hi>Cor.</hi> 13. laſt verſe, <hi>Be ſtedfaſt, immovable, always abounding in the work of the Lord, for as much as ye know that your labour ſhall not be in vain in the Lord:</hi> Reformation ends not in c<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ntem<g ref="char:EOLhyphen"/>plation, but in action: Be not ſlothful in buſineſs, forget not to do as ye have been taught; ye want not your care and troubles: But what ſaid <hi>David<g ref="char:punc">▪</g>
+               </hi> 1 <hi>Chron:</hi> 22.14. <hi>Now Behold, in my trouble, I have prepared for the houſe of the Lord, an hundred thouſand talents of Gold and a thouſand thouſand talents of ſilver, and of braſs and iron without weight:</hi> neither wa<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, nor any other buſineſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, could hinder him from this work.</p>
+            <p>Minde the example of the <hi>Jews,</hi> when ſtirred up to build the Temple, <hi>Ezra</hi> 5.1 2. They ſay not, we muſt fi<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſt build the Walls of <hi>Jeruſalem,</hi> to hold out the enemy, but the Text ſays, <hi>They began to build the houſe of God,</hi> and with them were <hi>Prophets</hi> of the Lord helping them, they were not full four <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ears in building of the Temple, and i<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> great <hi>Chronolo<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>s</hi> be not far miſtaken, the Temple was fi<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ſhed 83 years before the Walls of <hi>Jeruſalem</hi> we<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e finiſhed. I am far from meaning your Affection ſhould be cooled to the Laws, Liberties, peace and ſafety of the Kingdom: I wo<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ld only warm your Affections, with the zeal of a through Reformation, go on, and improve, where<g ref="char:EOLhyphen"/>to ye have already attained, and the Lord ſhall be with you, and the bleſſing of <hi>Obed-<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>m</hi> and his houſe, ſhall reſt upon you and yours. 1 <hi>Chron.</hi> 13 14. Conſider the exient of that Bleſſing, it
+<pb facs="tcp:35496:11"/>was a bro<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d B<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ing; 1. His perſon was bleſt, that's a bleſſed Religion that brings health to the na<g ref="char:EOLhyphen"/>vel, and marrow to the bones, 2ly. His poſterity bleſſed. 1 <hi>Chron:</hi> 26.8. In ſour. 1. He wa<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> bleſſed with a numerous progeny, threeſcore and two of <hi>Obed-ed<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ms</hi> Family. 2ly. They were bl<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſ<g ref="char:EOLhyphen"/>ſed with Employment, all made Officers in the Houſe of God. 3ly. Bleſſed with inablement to diſcharge that Employment, all able men of ſtrength, mighty men of valour, for the ſervice of the Temple. 4. They are bleſſed with Honour, made Rulers and Commanders through the Houſe of their Father. 3. His poſſeſſions were bleſſed with preſervation, increaſe, a comfortable in<g ref="char:EOLhyphen"/>joying them, <hi>Obed-edom</hi> made his Houſe a Sanctuary for God, now God makes it a Sanctuary for him, a place of ſafety. 4. His Actions and Undertakings are bleſſed, good ſucceſs attends him. 5. His Friends are bleſſed, they fare the better for him, he becomes a favourite of Heaven, he can ſpeed Suits, and obtain bleſſings for others. I hope there be ſome who hear me this day, who ſhall ſhare of ſuch bleſſings, and that all of you might ſhare of them, is my hearty prayer to God; <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> dare not charge you, but I would adviſe, that none of you turn your back, till ye ſee the <hi>Cape<g ref="char:EOLhyphen"/>ſtone</hi> out on the Work; and if thus your Heart and Care be towards the Houſe of God, he will have a care of yours. To his Name be praiſe.</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:35496:11"/>
+         </div>
+      </body>
+   </text>
+</TEI>
